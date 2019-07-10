@@ -3,5 +3,4 @@ insert a line.
 another line.
 new line.
 line.
-Creating a new branch is quick &simple.
-Creating a new branch is quick AndSimple.
+Creating a new branch is quick And Simple.
