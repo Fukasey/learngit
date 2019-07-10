@@ -1,6 +1,5 @@
 this is a new file.
 insert a line.
 another line.
-new line.
 line.
 Creating a new branch is quick And Simple.
