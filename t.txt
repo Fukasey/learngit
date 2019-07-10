@@ -2,3 +2,4 @@ this is a new file.
 insert a line.
 another line.
 new line.
+line.
