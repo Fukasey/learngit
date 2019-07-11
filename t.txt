@@ -1,7 +1,7 @@
 this is a new file.
 insert a line.
 another line.
-
+aaaaaaa
 new line.
 
 Creating a new branch is quick And Simple.
